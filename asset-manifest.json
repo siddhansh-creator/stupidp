@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/stupidp-stupidp/static/css/main.9adf349c.chunk.css",
-    "main.js": "/stupidp-stupidp/static/js/main.0378bb3d.chunk.js",
-    "main.js.map": "/stupidp-stupidp/static/js/main.0378bb3d.chunk.js.map",
-    "runtime-main.js": "/stupidp-stupidp/static/js/runtime-main.75bc8337.js",
-    "runtime-main.js.map": "/stupidp-stupidp/static/js/runtime-main.75bc8337.js.map",
-    "static/js/2.16056a7a.chunk.js": "/stupidp-stupidp/static/js/2.16056a7a.chunk.js",
-    "static/js/2.16056a7a.chunk.js.map": "/stupidp-stupidp/static/js/2.16056a7a.chunk.js.map",
-    "static/js/3.acbf7898.chunk.js": "/stupidp-stupidp/static/js/3.acbf7898.chunk.js",
-    "static/js/3.acbf7898.chunk.js.map": "/stupidp-stupidp/static/js/3.acbf7898.chunk.js.map",
+    "main.css": "/stupidp-stupidp/static/css/main.d5c07465.chunk.css",
+    "main.js": "/stupidp-stupidp/static/js/main.937d4d31.chunk.js",
+    "main.js.map": "/stupidp-stupidp/static/js/main.937d4d31.chunk.js.map",
+    "runtime-main.js": "/stupidp-stupidp/static/js/runtime-main.c9c7c493.js",
+    "runtime-main.js.map": "/stupidp-stupidp/static/js/runtime-main.c9c7c493.js.map",
+    "static/js/2.0300b878.chunk.js": "/stupidp-stupidp/static/js/2.0300b878.chunk.js",
+    "static/js/2.0300b878.chunk.js.map": "/stupidp-stupidp/static/js/2.0300b878.chunk.js.map",
+    "static/js/3.013a7b5f.chunk.js": "/stupidp-stupidp/static/js/3.013a7b5f.chunk.js",
+    "static/js/3.013a7b5f.chunk.js.map": "/stupidp-stupidp/static/js/3.013a7b5f.chunk.js.map",
     "index.html": "/stupidp-stupidp/index.html",
-    "static/css/main.9adf349c.chunk.css.map": "/stupidp-stupidp/static/css/main.9adf349c.chunk.css.map",
-    "static/js/2.16056a7a.chunk.js.LICENSE.txt": "/stupidp-stupidp/static/js/2.16056a7a.chunk.js.LICENSE.txt"
+    "static/css/main.d5c07465.chunk.css.map": "/stupidp-stupidp/static/css/main.d5c07465.chunk.css.map",
+    "static/js/2.0300b878.chunk.js.LICENSE.txt": "/stupidp-stupidp/static/js/2.0300b878.chunk.js.LICENSE.txt",
+    "static/media/expensive.6449ceef.jpg": "/stupidp-stupidp/static/media/expensive.6449ceef.jpg",
+    "static/media/margherita.683bc9bb.jpg": "/stupidp-stupidp/static/media/margherita.683bc9bb.jpg",
+    "static/media/multiplePizzas.490709e2.jpeg": "/stupidp-stupidp/static/media/multiplePizzas.490709e2.jpeg",
+    "static/media/pedrotechspecial.425951cb.jpg": "/stupidp-stupidp/static/media/pedrotechspecial.425951cb.jpg",
+    "static/media/pepperoni.d173e5db.jpg": "/stupidp-stupidp/static/media/pepperoni.d173e5db.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "/stupidp-stupidp/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizza.21a1098f.jpeg": "/stupidp-stupidp/static/media/pizza.21a1098f.jpeg",
+    "static/media/pizzaLeft.24b07891.jpg": "/stupidp-stupidp/static/media/pizzaLeft.24b07891.jpg",
+    "static/media/pizzaLogo.fcdc67e6.png": "/stupidp-stupidp/static/media/pizzaLogo.fcdc67e6.png",
+    "static/media/vegan.52cbfe9e.jpg": "/stupidp-stupidp/static/media/vegan.52cbfe9e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75bc8337.js",
-    "static/js/2.16056a7a.chunk.js",
-    "static/css/main.9adf349c.chunk.css",
-    "static/js/main.0378bb3d.chunk.js"
+    "static/js/runtime-main.c9c7c493.js",
+    "static/js/2.0300b878.chunk.js",
+    "static/css/main.d5c07465.chunk.css",
+    "static/js/main.937d4d31.chunk.js"
   ]
 }
